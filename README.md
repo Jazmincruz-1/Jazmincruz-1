@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Jazmin Cruz
+## Entrepreneurship Student at San Jose City College | Biological Scientist | Aspiring Leader
 
-<!--
-**Jazmincruz-1/Jazmincruz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Entrepreneurship at San Jose City College,
+focusing on Entrepreneurial and Small Business Operations.
+I'm passionate about building innovative solutions 
+for small businesses and startups.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- Gaining insight into the challenges and opportunities of running a small business
+- Exploring small-business development
+- Developing costumer service skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Languages: Java, JavaScript
+- Google Workspace
+
+### 📞 How to reach me
+- LinkedIn: www.linkedin.com/in/jazmin-cruz-383984366
